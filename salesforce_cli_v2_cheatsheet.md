@@ -1,5 +1,7 @@
 
-# Salesforce CLI (v2) Cheatsheet
+# Salesforce CLI (v2) Commands Cheatsheet
+
+Note: Replace API names (e.g., WorkflowRule, ApexClass) and org names (e.g., sandbox1) with your own values when using these commands in your Salesforce org.
 
 ## 1. Log In and Set Alias
 - **Log in to a Sandbox Org and set an alias**:
@@ -148,3 +150,4 @@
   ```bash
   sf search WorkflowRule
   ```
+  
